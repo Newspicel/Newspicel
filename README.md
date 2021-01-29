@@ -2,9 +2,14 @@
 <h3 align="center">Java- & Web-Developer since 2015 from Germany</h3>
 
 I’m currently collaborate on:
-<h4 align="center>[TheRedstoneLab] (https://github.com/theredstonelab) <img src="https://avatars3.githubusercontent.com/u/78087427?s=200&v=4" height="25" width="25"/></h4>
-<h4 align="center>[PlayLegendNet] (https://github.com/playlegendnet) <img src="https://avatars3.githubusercontent.com/u/50528510?s=200&v=4" height="25" width="25"/></h4>
-<h4 align="center>[And possibly soon for you, just contact me.] (https://newspicel.dev/contact)</h4>
+- [TheRedstoneLab](https://github.com/theredstonelab) <img src="https://avatars3.githubusercontent.com/u/78087427?s=200&v=4" height="25" width="25"/>
+  
+
+- [PlayLegendNet](https://github.com/playlegend) <img src="https://avatars3.githubusercontent.com/u/50528510?s=200&v=4" height="25" width="25"/>
+  
+
+- [And possibly soon for you, just contact me.](https://newspicel.dev/contact)  
+
 <br/>  
 
 ## Connect with me  
