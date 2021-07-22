@@ -2,7 +2,7 @@
 <h3 align="center">Developer since 2015 from Germany</h3>
 
 
-<br/><hr/>  
+<br/>  
 
 ## Connect with me  
 <div align="center">
