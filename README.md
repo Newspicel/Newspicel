@@ -1,6 +1,7 @@
 <h1 align="center">Hi👋, I'm Newspicel</h1>
 <h3 align="center">Developer since 2015 from Germany</h3>
 
+<h5 align="center"><a href="https://github.com/Newspicel/Newspicel/blob/main/HISTORY.md">History from me</h5>
 
 <br/>  
 
