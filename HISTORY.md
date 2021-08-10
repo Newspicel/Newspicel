@@ -30,3 +30,5 @@ Beginning of 2016 = First Line Code
 2021 April - Currently = Twitch Tools ([ttv.tools](https://ttv.tools))
 
 2021 August - Currently = Minecraft Server Software ([Layercraft](https://github.com/Layercraft))
+
+I also worked on many other projects, but for various reasons they didn't make it onto the list.
