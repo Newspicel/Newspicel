@@ -32,8 +32,5 @@
 <br/>  
            
 <h2>Recent Blog Posts</h2>
-<!-- BLOG-POST-LIST:START -->
-- [Wie ich eine Datenbank mit 86640 gültigen WhatsApp Gruppen Einladungslinks erstellt habe.](https://blog.newspicel.dev/wie-ich-eine-datenbank-mit-86640-g%C3%BCltigen-whatsapp-gruppen-einladungslinks-erstellt-habe)
-- [Über mich](https://blog.newspicel.dev/ueber-mich)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><a href="https://blog.newspicel.dev/wie-ich-eine-datenbank-mit-86640-g%C3%BCltigen-whatsapp-gruppen-einladungslinks-erstellt-habe" target="_blank">Wie ich eine Datenbank mit 86640 gültigen WhatsApp Gruppen Einladungslinks erstellt habe.</a><a href="https://blog.newspicel.dev/ueber-mich" target="_blank">Über mich</a><!-- BLOG-POST-LIST:END -->
            
