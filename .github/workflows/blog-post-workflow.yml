@@ -12,4 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://blog.newspicel.dev/rss.xml"
-          template: '<a href="$url" target="_blank">$title</a><br>'
+          template: '<li><a href="$url" target="_blank">$title</a><br></li>'
