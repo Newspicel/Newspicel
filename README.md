@@ -1,8 +1,10 @@
-<h1 align="center">Hi👋, I'm Newspicel</h1>
-<h3 align="center">Developer since 2015 from Germany</h3>
+<div align="center">
+<h1>Hi👋, I'm Julian</h1>
+<h3>Developer since 2015 from Germany</h3>
 
-<h5 align="center"><a href="https://github.com/Newspicel/Newspicel/blob/main/HISTORY.md">History from me</h5>
-
+<h5><a href="https://github.com/Newspicel/Newspicel/blob/main/HISTORY.md">History from me</h5>
+</div>
+           
 <br/>  
 
 ## Connect with me  
@@ -13,9 +15,6 @@
 <a href="https://linkedin.com/in/julian-haag-8408681b5" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/newspicel" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
 </div>  
 
 <br/>             
@@ -28,7 +27,11 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
 </div>  
 
 <br/>  
+           
+<h2>Recent Blog Posts</h2>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+           
