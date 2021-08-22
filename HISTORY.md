@@ -11,7 +11,7 @@ Beginning of 2016 = First Line Code
 
 2018 October - December = Klarcloud/Discordlist.xyz/QuickSystems
 
-2019 January = Join Madfix.me Team
+2019 January - 2021 July = Madfix.me Team
 
 2019 April = Own organized Coding Battel
 
