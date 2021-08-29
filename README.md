@@ -15,6 +15,9 @@
 <a href="https://linkedin.com/in/julian-haag-8408681b5" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="https://discord.newspicel.dev" target="_blank">
+<img alt="Discord" src="https://img.shields.io/discord/803975512497848340?color=5865F2&label=Discord&logo=Discord&style=for-the-badge">
+</a>
 </div>  
 
 <br/>             
