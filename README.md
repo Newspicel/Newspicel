@@ -44,6 +44,6 @@
            
 <h2>Recent Blog Posts</h2>
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://blog.newspicel.dev/wie-ich-eine-datenbank-mit-86640-g%C3%BCltigen-whatsapp-gruppen-einladungslinks-erstellt-habe" target="_blank">Wie ich eine Datenbank mit 86640 gültigen WhatsApp Gruppen Einladungslinks erstellt habe.</a><br></li><li><a href="https://blog.newspicel.dev/ueber-mich" target="_blank">Über mich</a><br></li><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><li><a href="https://blog.newspicel.dev/warum-dieser-blog-so-inaktiv-ist" target="_blank">Warum dieser Blog so Inaktiv ist...</a><br></li><li><a href="https://blog.newspicel.dev/wie-ich-eine-datenbank-mit-86640-g%C3%BCltigen-whatsapp-gruppen-einladungslinks-erstellt-habe" target="_blank">Wie ich eine Datenbank mit 86640 gültigen WhatsApp Gruppen Einladungslinks erstellt habe.</a><br></li><li><a href="https://blog.newspicel.dev/ueber-mich" target="_blank">Über mich</a><br></li><!-- BLOG-POST-LIST:END -->
 </ul>
            
