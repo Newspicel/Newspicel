@@ -25,7 +25,7 @@ Beginning of 2016 = First Line Code
 
 2020 July - 2021 Febuary = Minecraft Server (Minetania.net)
 
-2021 Febuary - March = Minecraft Server (Grifergames.net)
+2021 Febuary - March = Minecraft Server (Griefergames.net)
 
 2021 March - Currently = Twitch Tools ([ttv.tools](https://ttv.tools))
 
