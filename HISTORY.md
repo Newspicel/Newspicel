@@ -1,5 +1,5 @@
 # History
-3.1.2015 = Buy Minecraft
+3.1.2015 = Minecraft purchased
 
 Beginning of 2016 = First Line Code
 
