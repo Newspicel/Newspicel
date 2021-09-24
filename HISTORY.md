@@ -1,6 +1,4 @@
 # History
-3.1.2015 = Minecraft purchased
-
 Beginning of 2016 = First Line Code
 
 2017 Q1 - 2018 Q2 = First Minecraft Server (Pucto.net)
