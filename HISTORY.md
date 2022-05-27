@@ -11,7 +11,7 @@ Beginning of 2016 = First Line Code
 
 2019 January - 2021 July = Madfix.me Team
 
-2019 April = Own organized Coding Battel
+2019 April = Own organized Coding Battle
 
 2019 June - August = Minecraft Server (RoyalPixels.net)
 
@@ -25,9 +25,9 @@ Beginning of 2016 = First Line Code
 
 2021 Febuary - March = Minecraft Server (Griefergames.net)
 
-2021 January - Currently = Twitch Tools ([ttv.tools](https://ttv.tools))
+2021 January - 2022 January = Twitch Tools ([ttv.tools](https://ttv.tools))
 
-2021 October - Currently = Minecraft Server Software ([Layercraft](https://github.com/Layercraft))
+2021 October - Currently (Currently paused) = Minecraft Server Software ([Layercraft](https://github.com/Layercraft))
 
 2021 November - Currently = Roblox Game Studio: ([Everbyte Gaming](https://github.com/EverByteGaming))
 
