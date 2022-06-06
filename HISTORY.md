@@ -29,6 +29,6 @@ Beginning of 2016 = First Line Code
 
 2021 October - Currently (Currently paused) = Minecraft Server Software ([Layercraft](https://github.com/Layercraft))
 
-2021 November - Currently = Roblox Game Studio: ([Everbyte Gaming](https://github.com/EverByteGaming))
+2021 November - Currently = Roblox Game Studio: ([Byteverse Studio](https://github.com/ByteverseStudio))
 
 I also worked on many other projects, but for various reasons they didn't make it onto the list.
