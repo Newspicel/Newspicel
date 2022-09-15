@@ -39,11 +39,3 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />
 </div>  
-
-<br/>  
-           
-<h2>Recent Blog Posts (In German)</h2>
-<ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://blog.newspicel.dev/java-17-was-ist-neu" target="_blank">Java 17 - Was ist neu ?</a><br></li><li><a href="https://blog.newspicel.dev/hyped-app-wo-fange-ich-da-an" target="_blank">Hyped-App: Die wohl komischste 100.000 Euro App</a><br></li><li><a href="https://blog.newspicel.dev/wie-ich-eine-datenbank-mit-86640-g%C3%BCltigen-whatsapp-gruppen-einladungslinks-erstellt-habe" target="_blank">Wie ich eine Datenbank mit 86640 gültigen WhatsApp Gruppen Einladungslinks erstellt habe.</a><br></li><li><a href="https://blog.newspicel.dev/%C3%BCber-mich" target="_blank">Über Mich</a><br></li><!-- BLOG-POST-LIST:END -->
-</ul>
-           
