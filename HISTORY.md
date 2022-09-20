@@ -1,7 +1,7 @@
 # History
-Beginning of 2016 = First Line Code
+Beginning of 2015 = First Line Code
 
-2017 January - 2018 May = First Minecraft Server (Pucto.net)
+2016 January - 2018 May = First Minecraft Server (Pucto.net)
 
 2018 May = First own written Minecraft Cloud System
 
@@ -13,7 +13,7 @@ Beginning of 2016 = First Line Code
 
 2019 April = Own organized Coding Battle
 
-2019 June - August = Minecraft Server (RoyalPixels.net)
+2019 April - August = Minecraft Server (RoyalPixels.net)
 
 2019 August - December = Own Minecraft Server (Adoien.net)
 
@@ -23,7 +23,7 @@ Beginning of 2016 = First Line Code
 
 2020 August - 2021 Febuary = Minecraft Server (Minetania.net)
 
-2021 Febuary - March = Minecraft Server (Griefergames.net)
+2021 Febuary - August = Minecraft Server (Griefergames.net)
 
 2021 January - 2022 January = Twitch Tools ([ttv.tools](https://ttv.tools))
 
